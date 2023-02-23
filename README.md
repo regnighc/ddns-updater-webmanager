@@ -8,3 +8,4 @@ Suggested Installation method:
 3) Copy the index.php file from this repository into the ddns-updater data folder alongside your config.json file.
 
 
+![dnsman](https://user-images.githubusercontent.com/13137984/220908899-a5509aa7-de65-4bf1-a7f8-596de82bf634.jpg)
