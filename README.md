@@ -1,4 +1,6 @@
 # ddns-updater-webmanager
+Sorry but I dont have time to create a login page or make this look pretty, but feel free to take the code and change it if you wish to do so.
+
 Web Interface to facilitate management of the ddns-updater config file
 
 Suggested Installation method:
