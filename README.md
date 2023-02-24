@@ -11,3 +11,11 @@ Suggested Installation method:
 
 
 ![dnsman](https://user-images.githubusercontent.com/13137984/220908899-a5509aa7-de65-4bf1-a7f8-596de82bf634.jpg)
+
+
+# Future Update: API
+
+To use these endpoints, you can send HTTP requests to the appropriate URLs. For example:
+
+    To get all existing records: http://yourdomain.com/your-script.php?action=get_records
+    To add a new record: send a POST request to http://yourdomain.com/your-script.php with the following parameters in the request body: action=add_record, provider, domain, host, `
