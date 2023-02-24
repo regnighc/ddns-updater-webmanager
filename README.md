@@ -19,3 +19,9 @@ To use these endpoints, you can send HTTP requests to the appropriate URLs. For 
 
     To get all existing records: http://yourdomain.com/your-script.php?action=get_records
     To add a new record: send a POST request to http://yourdomain.com/your-script.php with the following parameters in the request body: action=add_record, provider, domain, host, `
+    
+    To delete an existing record using the API endpoint, you would need to send a DELETE HTTP request to the endpoint with the following parameters:
+
+    host: The value of the host field of the record you want to delete.
+
+For example, if you want to delete a record with host value of example.com, you would send a DELETE request to the endpoint like this:
